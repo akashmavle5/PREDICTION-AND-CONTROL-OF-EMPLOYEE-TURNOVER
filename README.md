@@ -21,10 +21,8 @@ HR_RandomForestClassifier
 NextToLeave.m
 HRonSVM.m
 About the files in the project
-• The ipynb files are the python files which we used to find if a employee is
+The ipynb files are the python files which we used to find if a employee is
 working or not working in the company by giving some input training
 data.
-
-• The Matlab files have the programs which can predict the next employee
-
+The Matlab files have the programs which can predict the next employee
 who is likely to leave from the company.
