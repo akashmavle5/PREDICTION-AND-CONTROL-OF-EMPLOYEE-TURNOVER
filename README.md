@@ -26,3 +26,5 @@ working or not working in the company by giving some input training
 data.
 The Matlab files have the programs which can predict the next employee
 who is likely to leave from the company.
+
+The results for this dataset are very impressive ranging from about 90-96% for different machine learnibg techniques.
